@@ -1,0 +1,19 @@
+{
+  "name": "drink_decision_maker",
+  "description": "Ultimately helpfull when you doubt whether drink tonight or not",
+  "version": "1.0.0",
+  "author": {
+    "name": "Artyom Zakharov",
+    "email": "artyom.zakharov@outlook.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drink",
+    "alcohol",
+    "decision"
+  ],
+  "license": "ISC"
+}
